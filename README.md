@@ -7,3 +7,4 @@ This project of LineBot and Azure Cognitive Services is design for the elder wit
 ![image](https://github.com/PikoLab/LineBot-AzureCognitiveService/blob/main/Automation_Arrangement.jpg)
 
 ## Here is the outcome:
+![image](https://github.com/PikoLab/LineBot-AzureCognitiveService/blob/main/AzureProject_Outcome.jpg)
